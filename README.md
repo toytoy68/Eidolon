@@ -7,8 +7,6 @@
 
 # Project Eidolon
 
-# Project Eidolon
-
 > **Building a fully local cognitive AI ecosystem — one module at a time.**
 
 Project Eidolon is an open engineering journal documenting the design, implementation and evolution of a fully local AI ecosystem.
