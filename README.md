@@ -23,6 +23,26 @@ Project Eidolon is an open engineering journal documenting the design and develo
 - Computer vision
 - Modular architecture
 
+## The Story Behind Eidolon 
+
+## The Story Behind Eidolon
+
+Project Eidolon was never meant to become an AI infrastructure.
+
+It all started with a simple Minecraft server, which later became a combined Minecraft server and NAS.
+
+While writing the novel *Dans les bras d'Eidolon*, the concept of Eidolon was born as a fictional artificial intelligence. After finishing the novel, the first objective was simply to create a small local chatbot called Mia/Luna.
+
+As development progressed, the project quickly outgrew the idea of a chatbot. Memory, long-term context, voice interaction, computer vision, automation and robotics gradually became necessary components.
+
+At that point, the question was no longer *"How can I build a chatbot?"* but rather:
+
+> **"What would it take to build my own version of Eidolon?"**
+
+That question became the foundation of this repository.
+
+Today, Project Eidolon is an open engineering journal documenting the design and development of a modular, fully local AI ecosystem, built step by step on real hardware.
+
 ## Current Hardware
 
 ### AI Server
