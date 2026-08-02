@@ -2,7 +2,7 @@
   <img src="docs/images/banner.jpg" alt="Project Eidolon">
 </p>
 <p align="center">
-<strong>Building a 100% local AI ecosystem.</strong>
+<strong>100% LOCAL • PRIVATE • MODULAR • BUILT TO EVOLVE</strong>
 </p>
 </p>
 
