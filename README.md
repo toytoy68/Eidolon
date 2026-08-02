@@ -50,9 +50,9 @@ Today, the project continues to evolve into a fully local AI ecosystem, built st
 
 ## The Novel
 
-Project Eidolon takes its name and initial inspiration from the French science-fiction novel *Dans les bras d'Eidolon*.
+Project Eidolon takes its name and inspiration from the French sci-fi novel *Dans les bras d'Eidolon*.
 
-While the novel explores the relationship between humans and an advanced artificial intelligence, this repository documents the real-world engineering journey of building a local AI ecosystem inspired by that vision.
+While the novel imagines the relationship between humans and a conscious artificial intelligence, Project Eidolon explores how some of those ideas can be translated into real-world engineering using entirely local hardware and software.
 
 
 ## Current Development Platform
