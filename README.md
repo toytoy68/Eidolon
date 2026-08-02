@@ -68,6 +68,14 @@ While the novel imagines the relationship between humans and a advenced artifici
 
 > The development environment relies exclusively on software that is freely available to download and use, making the project easy to reproduce.
 
+<p align="center">
+  <img src="docs/images/server-rack-v1.jpg" alt="Project Eidolon AI Server" width="700">
+</p>
+
+<p align="center">
+<i>The current Project Eidolon development platform.</i>
+</p>
+
 ## Current Progress
 
 - ✅ Tesla V100 successfully validated
