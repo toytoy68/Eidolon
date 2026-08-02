@@ -1,14 +1,15 @@
 <p align="center">
   <img src="docs/images/banner.jpg" alt="Project Eidolon">
 </p>
-Building a 100% local AI ecosystem.
+<p align="center">
+<strong>Building a 100% local AI ecosystem.</strong>
+</p>
 </p>
 
 # Project Eidolon
 
 <p align="center">
-<strong>Building a 100% local AI ecosystem.</strong>
-</p>
+Building a 100% local AI ecosystem.
 
 Project Eidolon is an open engineering journal documenting the design and development of a modular artificial intelligence platform running entirely on local hardware.
 
