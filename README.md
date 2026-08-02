@@ -4,7 +4,6 @@
 <p align="center">
 <strong>100% LOCAL • PRIVATE • MODULAR • BUILT TO EVOLVE</strong>
 </p>
-</p>
 
 # Project Eidolon
 
