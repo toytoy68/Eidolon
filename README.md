@@ -7,7 +7,13 @@
 
 # Project Eidolon
 
-Project Eidolon is an open engineering journal documenting the design and development of a modular artificial intelligence platform running entirely on local hardware.
+# Project Eidolon
+
+> **Building a fully local cognitive AI ecosystem — one module at a time.**
+
+Project Eidolon is an open engineering journal documenting the design, implementation and evolution of a fully local AI ecosystem.
+
+Rather than building a single chatbot, the objective is to create a modular platform combining language models, long-term memory, perception, reasoning and robotics, entirely on local hardware.
 
 ## Goals
 
