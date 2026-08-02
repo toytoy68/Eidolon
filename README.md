@@ -6,7 +6,9 @@ Building a 100% local AI ecosystem.
 
 # Project Eidolon
 
-> Building a 100% local AI ecosystem.
+<p align="center">
+<strong>Building a 100% local AI ecosystem.</strong>
+</p>
 
 Project Eidolon is an open engineering journal documenting the design and development of a modular artificial intelligence platform running entirely on local hardware.
 
