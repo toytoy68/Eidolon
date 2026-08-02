@@ -9,9 +9,9 @@
 
 > **Building a fully local cognitive AI ecosystem — one module at a time.**
 
-Project Eidolon is an open engineering journal documenting the design, implementation and evolution of a fully local AI ecosystem.
+Project Eidolon is an open engineering journal documenting the creation of a fully local AI ecosystem.
 
-Rather than building a single chatbot, the objective is to create a modular platform combining language models, long-term memory, perception, reasoning and robotics, entirely on local hardware.
+More than a software project, Eidolon embraces a practical engineering philosophy: reusing enterprise hardware where it makes sense, building custom mechanical parts from readily available materials, and relying on affordable off-the-shelf electronics to create an accessible local AI and robotics platform.
 
 ## Goals
 
@@ -26,7 +26,7 @@ Rather than building a single chatbot, the objective is to create a modular plat
 
 ## The Story Behind Eidolon
 
-Project Eidolon was never intended to become an AI infrastructure.
+The project was never intended to become an AI infrastructure.
 
 It all started as a simple Minecraft server before evolving into a combined Minecraft server and NAS.
 
@@ -44,18 +44,20 @@ It became:
 
 That question became the foundation of this project.
 
-Today, Project Eidolon is an open engineering journal documenting the development of a modular, fully local AI ecosystem, built step by step on real hardware.
+Today, the project continues to evolve into a fully local AI ecosystem, built step by step through documented experiments, hardware validation and modular software development.
 
-## Current Hardware
+## Current Development Platform
 
 ### AI Server
 
 - Intel Core i5-14500
-- 64 GB DDR4 *(128 GB planned)*
-- NVIDIA Tesla V100 SXM2
-- Proxmox VE
-- Debian
+- 64 GB DDR4-3200 (128 GB planned)
+- NVIDIA Tesla V100 SXM2 16 GB (2× V100 32 GB planned)
+- Proxmox VE 9
+- Debian 13
 - Ollama
+
+> Every software component used in the project is freely available, allowing anyone to reproduce the development environment.
 
 ## Current Progress
 
