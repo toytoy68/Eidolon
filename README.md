@@ -8,8 +8,6 @@
 
 # Project Eidolon
 
-> **100% LOCAL • PRIVATE • MODULAR • BUILT TO EVOLVE**
-
 Project Eidolon is an open engineering journal documenting the design and development of a modular artificial intelligence platform running entirely on local hardware.
 
 ## Goals
