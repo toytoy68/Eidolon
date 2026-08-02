@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="docs/images/eidolon-banner.jpg" alt="Project Eidolon" width="100%">
+  <img src="docs/images/banner.jpg" alt="Project Eidolon">
 </p>
-
-<h1 align="center">Project Eidolon</h1>
-
-<p align="center">
 Building a 100% local AI ecosystem.
 </p>
 
