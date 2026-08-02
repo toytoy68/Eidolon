@@ -26,11 +26,11 @@ More than a software project, Eidolon embraces a practical engineering philosoph
 
 ## The Story Behind Eidolon
 
-The project was never intended to become an AI infrastructure.
+Project Eidolon was never meant to become an AI infrastructure.
 
 It all started as a simple Minecraft server before evolving into a combined Minecraft server and NAS.
 
-While writing the novel *Dans les bras d'Eidolon*, the idea of Eidolon was born as a fictional artificial intelligence. After completing the novel, the initial goal was simply to build a small local chatbot called **Mia/Luna**.
+While writing the novel *Dans les bras d'Eidolon*, the idea of Eidolon first emerged as a fictional artificial intelligence. After the novel was completed, the original goal was simply to build a small local chatbot called **Mia/Luna**.
 
 As development progressed, the chatbot quickly outgrew its original purpose. Long-term memory, persistent context, voice interaction, computer vision, automation and robotics gradually became essential parts of the project.
 
@@ -42,9 +42,18 @@ It became:
 
 > **"What would it take to build my own version of Eidolon?"**
 
-That question became the foundation of this project.
+The fictional AI imagined in the novel gradually became the engineering challenge documented in this repository.
+
+If you're curious about the origins of the project, the novel *Dans les bras d'Eidolon* tells the story that inspired it.
 
 Today, the project continues to evolve into a fully local AI ecosystem, built step by step through documented experiments, hardware validation and modular software development.
+
+## The Novel
+
+Project Eidolon takes its name and initial inspiration from the French science-fiction novel *Dans les bras d'Eidolon*.
+
+While the novel explores the relationship between humans and an advanced artificial intelligence, this repository documents the real-world engineering journey of building a local AI ecosystem inspired by that vision.
+
 
 ## Current Development Platform
 
@@ -57,7 +66,7 @@ Today, the project continues to evolve into a fully local AI ecosystem, built st
 - Debian 13
 - Ollama
 
-> Every software component used in the project is freely available, allowing anyone to reproduce the development environment.
+> The development environment relies exclusively on software that is freely available to download and use, making the project easy to reproduce.
 
 ## Current Progress
 
