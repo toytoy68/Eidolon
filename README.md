@@ -55,6 +55,19 @@ Project Eidolon takes its name and inspiration from the French sci-fi novel *Dan
 While the novel imagines the relationship between humans and a advenced artificial intelligence, Project Eidolon explores how some of those ideas can be translated into real-world engineering using entirely local hardware and software.
 
 
+## Ecosystem
+
+Project Eidolon is evolving into a complete local AI ecosystem composed of several independent but interconnected projects.
+
+- **Eidolon Bootstrap Framework (EBF)** — Automated deployment framework for reproducible installations.
+- **Eidolon Core** — The main cognitive engine.
+- **Eidolon Memory** — Long-term semantic memory and knowledge storage.
+- **Wall-E** — Physical robotics platform.
+- **Documentation** — Engineering journal, hardware validation and experiments.
+
+Each component is developed independently while following the same engineering principles.
+
+
 ## Current Development Platform
 
 ### AI Server
