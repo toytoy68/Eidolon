@@ -1,0 +1,51 @@
+{
+  "checked_on": "2026-11-02",
+  "sources": [
+    {
+      "project": "Hindsight",
+      "tag": "v1.1.0",
+      "commit": "a5a619b5ca59c5c39e0f96be6f7a31fabd136bd5",
+      "published": "2026-10-21",
+      "license": "MIT",
+      "examined_commits": [
+        "7b46a07c82f997903230f0fb33deafe9dfd2e22b",
+        "a461a00c0265955b8805dffab9d06bf30deb1ba8"
+      ]
+    },
+    {
+      "project": "Hermes",
+      "commit": "4d26e0cceaed0a08ede833caec0ec6d6ca77a4b8",
+      "license": "MIT",
+      "examined_commits": [
+        "10d34c53d9678e9a8e6ce9887b598136a663298c",
+        "4d26e0cceaed0a08ede833caec0ec6d6ca77a4b8"
+      ]
+    },
+    {
+      "project": "OpenHands SDK",
+      "tag": "v1.59.0",
+      "commit": "ccae18cb897bef7960f210aa3f380b577a84be7c",
+      "license": "MIT",
+      "examined_commits": [
+        "d0d9d81324210414462fb676b377e0563a08a0cb"
+      ],
+      "reviewed_prs": [
+        "https://github.com/OpenHands/software-agent-sdk/pull/6257"
+      ]
+    },
+    {
+      "project": "Falco",
+      "tag": "0.45.2",
+      "commit": "7625e203c17c88c91fa1b1b8e2937907f22a1523",
+      "license": "Apache-2.0",
+      "qualification": "release and root license read; no runtime trial"
+    },
+    {
+      "project": "llama.cpp-v100",
+      "tag": "v100-2.0.1.1",
+      "commit": "f17d925848c14fee2849654172f9c5231297782e",
+      "license": "GPL-3.0",
+      "qualification": "upstream release and root license read; hardware results not reproduced"
+    }
+  ]
+}

@@ -2,6 +2,12 @@
 
 **Statut : étude uniquement.** Ce document consigne des pistes issues de la veille hebdomadaire ; il ne valide ni leur fonctionnement sur notre matériel ni leur intégration dans Eidolon. Aucun déploiement, fusion ou changement de code n'est autorisé par ce document.
 
+## Suivi du 2 novembre
+
+La vérification des sources et les qualifications exécutées après cette note sont
+dans [le compte rendu de qualification](veille-2026-11-02-qualification.md).
+Le statut final ci-dessous décrit le dépôt initial du matin, pas ces travaux ultérieurs.
+
 ## Règles d'évaluation
 
 Pour chaque piste : conserver les liens vers les sources primaires (release, commit, issue), la version/commit exact, distinguer **annonce amont**, **compatibilité à vérifier**, **test local réussi**, **décision d'architecture** ; contrôler licence et dépendances, mesurer RAM/VRAM, CPU/GPU, latence, consommation, frais de maintenance et surface d'attaque. Préférer des prototypes isolés et réversibles. Ne pas donner aux LLM un accès direct au système : Core/Darme restent les seuls médiateurs d'actions autorisées.
