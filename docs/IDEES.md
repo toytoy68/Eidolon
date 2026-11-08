@@ -104,3 +104,22 @@ vidéo comportent des erreurs de noms et de benchmarks : utiliser les sources
 officielles pour préparer le protocole. Environ 1 Go concerne les poids texte
 en 4 bits, pas toute la mémoire d'exécution ; aucune vitesse sur X399 n'est
 encore établie.
+
+## Gestion matérielle Eidolon — étude (8 novembre 2026)
+
+**Statut : schéma de développement enregistré à la demande de toytoy ; à qualifier.**
+Aucune implémentation ou modification des machines effectuée par cet ajout.
+
+Objectif : une couche légère entre Core/Darme et les moteurs de calcul pour
+inventorier le matériel, réserver les ressources, appliquer des profils validés,
+lancer et surveiller les tâches, puis conserver les mesures utiles aux décisions.
+
+[Schéma de développement et protocole de qualification](research/gestion-materielle-eidolon-2026-11-08.md)
+
+Progression : audit → observation → simulation → MVP mono-GPU → apprentissage →
+multi-GPU qualifié → intégration Core/Darme/HUD → extensions selon les résultats.
+Le NAS conserve la passerelle MCP ; les agents de calcul restent sur leurs hôtes.
+Référence V100 : plafond demandé de 200 W par carte, à vérifier avant exécution.
+Le plan couvre les réservations, reprises après panne, budgets de surcharge,
+cohabitation avec Nomifactory et retour arrière. NVLink et VRAM répartie restent
+conditionnés au matériel et aux capacités réelles du moteur.
