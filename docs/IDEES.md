@@ -123,3 +123,19 @@ Référence V100 : plafond demandé de 200 W par carte, à vérifier avant exéc
 Le plan couvre les réservations, reprises après panne, budgets de surcharge,
 cohabitation avec Nomifactory et retour arrière. NVLink et VRAM répartie restent
 conditionnés au matériel et aux capacités réelles du moteur.
+
+## Eidolon-OS — poste quotidien et jeux (10 novembre 2026)
+
+**Statut : propositions enregistrées en étude à la demande de toytoy.**
+[Plan d'étude et protocole de qualification](research/eidolon-os-poste-quotidien-2026-11-10.md)
+
+Pistes : intégration du bureau et des lanceurs, profils matériels testés,
+mises à jour avec retour arrière vérifié, sauvegardes indépendantes et
+qualification sur le PC principal NVIDIA. Comparer une base Debian avec profil
+Eidolon et Bazzite comme poste client, sans décider de migration à ce stade.
+
+Prévoir Minecraft/Nomi, Skyrim SE moddé, usages quotidiens et cohabitation avec
+Eidolon. Distinguer performances à froid/à chaud et mesurer les temps de trame.
+Suivre les exigences officielles Secure Boot et l'évolution annoncée de
+Fortnite/EAC Linux v2 ; aucune compatibilité actuelle d'Eidolon-OS n'est validée.
+Le suivi est documenté comme travail futur, sans nouvelle automatisation.
